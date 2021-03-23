@@ -8,11 +8,12 @@
 
 看完这篇指南, 你将会收获:
 
-* 对 GitHub 界面和功能的基本了解
-* 版本控制工具 Git 的基础使用
-* 基础的 Markdown 写作
-* 你的第一个 Pull Request
-* 了解如何使用 GitHub 进行团队协作
+* [对 GitHub 功能的基本了解](#什么是-github)
+* [对 GitHub 界面的基本了解](#github-repo-界面简易解释)
+* [版本控制工具 Git 的基础使用](#git-介绍)
+* [基础的 Markdown 写作](#github-文档)
+* [你的第一个 Pull Request 实践!](#实战-提交你的第一个-pull-request)
+* [了解如何使用 GitHub 进行团队协作](#团队协作)
 
 [这篇文章的 GitHub 地址](https://github.com/OrangeX4/GitHub-Tutorials), 欢迎 Star!
 
