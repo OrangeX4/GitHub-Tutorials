@@ -21,7 +21,7 @@
 
 封面图:
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2fdfd03c736ce41f59b62163c5994f32b.png)
+![](https://pic4.zhimg.com/80/v2-b6c2a3ca328d995aa75ecfd6c560ccdf_720w.png)
 
 <!-- more -->
 
@@ -57,23 +57,23 @@
 
 1. 打开 GitHub, 你能看见一个炫酷的界面, 这时候你应该点 `Sign up`, 进入账号注册的流程.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v21f5c5f69d4b245dea94be0de691b7412.png)
+![](https://pic2.zhimg.com/80/v2-8013fffb78b29d184f480e96cd3be21d_720w.png)
 
 2. 紧接着, 填入你的用户名, 邮箱和密码, 再点击 `Create account`.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v29384e1904ec4471eb47303060c320a4d.png)
+![](https://pic1.zhimg.com/80/v2-d784b154194737aa4b9b2c909e95863c_720w.png)
 
 3. 经过一系列选择, 验证邮箱之后, 看见这个页面, 选择 `Create a repository`, 创建你的第一个仓库.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2bad15e996e3648058c2509beadfb5354.png)
+![](https://pic3.zhimg.com/80/v2-081efaa7c1f10d6c1368e7d957860a22_720w.png)
 
 4. 填写仓库的名称, 介绍和其他配置.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v22500d82278e44b26b2132c2d25718efb.png)
+![](https://pic4.zhimg.com/80/v2-6ff1755492708b5f8bb483258f1b7f07_720w.png)
 
 5. 当你看见这样的提示, 他是在提醒你进行后续操作, 恭喜你, 你的第一个代码仓库创建成功了!
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2b8ab823040984abdb38b02c504e4bca3.png)
+![](https://pic4.zhimg.com/80/v2-261bfd442dddf0c645aba0a06ceb875f_720w.png)
 
 
 ## Git 基础使用
@@ -102,13 +102,13 @@ A: 是的, 想要真正地使用 GitHub, 你必须得先学会 Git. 但这并不
 
 安装过程中不断点 `Next` 进行默认安装就好.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2d76fdf00a5ff481dbe4251ab974e04aa.png)
+![](https://pic2.zhimg.com/80/v2-1d68462aca1926f6c0e325f07c45c2d5_720w.png)
 
 安装完成后, 请打开你的命令行终端, 输入命令 `git`, 回车.
 
 (终端打开方式 Win 键, 输入 cmd, 或者 powershell, 回车)
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2d9ff5acf817a4212925819ad8ba3537d.png)
+![](https://pic4.zhimg.com/80/v2-75a3f608362367bcd5f56825395bd12b_720w.png)
 
 如有如图的输出显示, 那么你就成功安装 Git 了.
 
@@ -120,7 +120,7 @@ A: 是的, 想要真正地使用 GitHub, 你必须得先学会 Git. 但这并不
 
 最基本, 你也需要掌握 Git 的这些内容:
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2432a1e69eee44062aa343c1a539b6fcd.png)
+![](https://pic2.zhimg.com/80/v2-33f6c9791ac5abd328a981d5c80a278d_720w.png)
 
 简单来说, 你要学会:
 
@@ -140,7 +140,7 @@ A: 是的, 想要真正地使用 GitHub, 你必须得先学会 Git. 但这并不
 
 VSCode 左端有一个版本控制面板, 如图, 你可以很简便地使用.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v21b24b30897854c1d8c525f064cd84366.png)
+![](https://pic4.zhimg.com/80/v2-f0f778cfee09eb9bb0e0008f57e640af_720w.png)
 
 
 ## GitHub 文档
@@ -151,7 +151,7 @@ VSCode 左端有一个版本控制面板, 如图, 你可以很简便地使用.
 
 如图, 在 GitHub 新建 Repo 后, 照着 GitHub 的说明执行:
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v297247b20bab6413a847b1226858d8262.png)
+![](https://pic2.zhimg.com/80/v2-d4975102f1f08c67a0071511d4e40e8d_720w.png)
 
 ``` sh
 echo "# first-repo" >> README.md
@@ -167,7 +167,7 @@ PS: 记得先按照 Git 教程里说的, 在 GitHub 加入你的 SSH key 噢.
 
 然后你的 `README.md` 文件将会以 Markdown 形式展示在你的仓库页面.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v218a5ced047d142909883f35e9013d7c4.png)
+![](https://pic2.zhimg.com/80/v2-18e9ca0fe4071670e7568d39feb154f1_720w.png)
 
 **Markdown** 的语法非常简单, 比如:
 
@@ -264,15 +264,15 @@ $$
 
 ### Code 页面
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2fdfd03c736ce41f59b62163c5994f32b.png)
+![](https://pic4.zhimg.com/80/v2-b6c2a3ca328d995aa75ecfd6c560ccdf_720w.png)
 
 ### Issues 页面
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v208a5e92318754a7ab068f82ea75b131e.png)
+![](https://pic4.zhimg.com/80/v2-904f8cd0065be0e56c90cc879b3678c7_720w.png)
 
 ### Pull requests 页面
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2fbd27d6535b04d298de996e85b427e64.png)
+![](https://pic4.zhimg.com/80/v2-0200a5cd2f228d92ec4c6f0333c1916b_720w.png)
 
 一般来说, Pull Request 的流程是:
 1. 先 Fork 这个 Repo, 你就有了这个 Repo 的一个专属你的复制版 Repo;
@@ -291,57 +291,57 @@ Fork 一个你要提交 Pull Request 的项目.
 
 [First-Pull-Requests](https://github.com/OrangeX4/First-Pull-Requests) 是我创建的一个 Repo, 你可以在这里尝试提交你的第一个 Pull Request.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v21107e5d6b79340448bbc875583b19ebe.png)
+![](https://pic3.zhimg.com/80/v2-1ec5d4220e95acffbd4d229f6b4c1d56_720w.png)
 
 点击右上方的 `Fork` 按钮, 你可以看见这个 Repo 已经被你 Fork 了下来, 即复制了一份.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2f7106227401e4b63830c34a4801c27a2.png)
+![](https://pic4.zhimg.com/80/v2-2c2a00667d1ad67ae54622e62b5dece3_720w.png)
 
 ### 加入内容
 
 点击这个铅笔按钮, 进入编辑模式.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2ed42d3fe4ec8469bb61e16b4a5b8b890.png)
+![](https://pic1.zhimg.com/80/v2-0811a67202794eaf8f2cf3384273bc54_720w.png)
 
 按照格式加入你要加入的内容, 在这里是你的名字和评论.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v23b118ae1bb3e40f49d6f17fe698499a6.png)
+![](https://pic2.zhimg.com/80/v2-6e14941c1c261ce2eeade0868b844b15_720w.png)
 
 输入 Commit 信息, 点击下面的 Commit 按钮.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v24ce28572b8e441fb92947af7fb18fc91.png)
+![](https://pic1.zhimg.com/80/v2-32ec867a732c91c2a33948a88e675b6c_720w.png)
 
 可以看见, 在你 Fork 出来的 Repo 中, 内容已经发生了改变.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2806d41a95da24bb7ae7b0d3caeb18e9b.png)
+![](https://pic3.zhimg.com/80/v2-e6eaee4be08e5f1893da6f67b3847cba_720w.png)
 
 ### 发送 Pull Request
 
 点击你 Fork 的仓库中的 Pull request 按钮:
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v231ea79cddc324c9b92e9e9a6ebc8690b.png)
+![](https://pic2.zhimg.com/80/v2-cdb24afc8d624a00bd301b34d0651911_720w.png)
 
 接下来的页面会显示你修改的内容, 确实无误后点击 `Create pull request` 按钮.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v236c0f3eea9b4493aac4075c78988ecda.png)
+![](https://pic3.zhimg.com/80/v2-9081bf3f17ebdc5193a1061e1f49fe5e_720w.png)
 
 接下来是添加一些你的 Pull Request 的描述, 保证你的 Pull Request 能打动原 Repo, 让其同意接收.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2178007a3837648839f205efc5d30f517.png)
+![](https://pic3.zhimg.com/80/v2-d1734e21e22fb6a104b79e96be977872_720w.png)
 
 然后原 Repo 就会出现你的 Pull Request, 你只需要静静等待对方回复即可!
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v24b2da06e925e4438971da9c43835e14d.png)
+![](https://pic4.zhimg.com/80/v2-b921e322472f46a0e44e8f09c851fa2b_720w.png)
 
 ### 同意 Pull Request
 
 如果你收到了一个 Pull Request, 经过代码审查后, 你可以 Merge 这个 Pull Request 到你的仓库中.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2679b9e99d45c4fdeafba0cc0502693d1.png)
+![](https://pic3.zhimg.com/80/v2-e7bcaa5396fe84ee9d4a4fdcd7b9fb9e_720w.png)
 
 最后, 可以看见, Pull Request 的内容以及被合并到原 Repo 里了!
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2a71a06f732694bf0908fab07030795a1.png)
+![](https://pic1.zhimg.com/80/v2-0d72d797b38eac54daaed769c4dfd58c_720w.png)
 
 这就是一个 Pull Request 的完整流程.
 
@@ -355,49 +355,49 @@ Fork 一个你要提交 Pull Request 的项目.
 
 1. 当你需要与团队进行团队协作时, 你可以在 GitHub 首页, 选择 `New organization` 新建一个组织.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2c4e00ad938604515ac22a5927050ac8c.png)
+![](https://pic4.zhimg.com/80/v2-a36c03df37dab6cbadc48944ecd0f273_720w.png)
 
 2. 选择一个收费计划, 实际上, 对于小团队来说, 免费的 Free 计划已经完全足够.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v24dcaa5bcc6c6423181856f0e9b471e32.png)
+![](https://pic4.zhimg.com/80/v2-8adc58be1dcf368492a2fd9fe986d8a3_720w.png)
 
 3. 输入你们组织的名称, 联系邮件, 确认, 就可以创建一个你自己的组织了.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v26ecdaf116a1347b1900cea9917e1df2a.png)
+![](https://pic4.zhimg.com/80/v2-675dde6e0274b55d6ad649819172f72b_720w.png)
 
 4. 再输入你要邀请的成员的用户名或者邮箱.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v26234d0af58064fbb895cbf07da947fef.png)
+![](https://pic3.zhimg.com/80/v2-c288e75e28a520649b768aecd432f752_720w.png)
 
 5. 填写一些你即将用 GitHub 的团队协作功能做些什么的信息, 就完成了组织的创建.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v224cff97dc59a4f68b6b7c3475ce1311e.png)
+![](https://pic2.zhimg.com/80/v2-ff241a2b1c82d346b67598ea9b8b8a59_720w.png)
 
 6. 最后, 你获得了一个你自己的组织, 可以写你们组织专属的 Repo 了!
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2c1c9c48b8abf413a84a43b92eef588ca.png)
+![](https://pic3.zhimg.com/80/v2-4ac863e463fab93e8c0778a9b0d0acde_720w.png)
 
 ### 创建仓库
 
 创建一个你们团队的仓库:
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v20154afb06bf043ba83b4b40d4300477d.png)
+![](https://pic2.zhimg.com/80/v2-c2f6e1fc5216a661c3d34877aeb777a5_720w.png)
 
 默认来说, 组织的普通成员对 Repo 访问权限是只读, 即有浏览代码的权限, 没有修改的权限. 这样的权限管理是比较推荐的, 普通成员可以通过 Pull Request 来提交自己的代码, 团队所有者可以进行代码检查, 以防止出现不好的代码.
 
 但是如果你一定要修改权限, 也可以在组织的 `Setting` 中, 将团队成员的权限改为 `Write`.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2b525e01e785e46c4a89d964aef1f20cc.png)
+![](https://pic2.zhimg.com/80/v2-57a17fded860de863235be798ef59c3d_720w.png)
 
 ### 团队协作
 
 1. 队长创建 dev 分支, 方便后续合并代码, 可选.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2c53a2283ccc140d1b18f2a2f3e8a4fd0.png)
+![](https://pic4.zhimg.com/80/v2-5dd380866cfe2ff5cb22d99a76cb0efb_720w.png)
 
 2. 在当前 Fork 一个新 Repo 到你自己的账户.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v25b87dc00f4044d19b9220c9a7f80b999.png)
+![](https://pic3.zhimg.com/80/v2-59c542d82e5d129b254af95bff44440e_720w.png)
 
 3. 克隆你自己的新 Repo 到本地.
 
@@ -416,7 +416,7 @@ git remote -v
 
 查看有没有 upstream, 如下图即是没有.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2158701cdbc2f4d23a94c2e2075fe2db8.png)
+![](https://pic3.zhimg.com/80/v2-5980f789ec90f2eb529a77223d4ad5de_720w.png)
 
 再输入命令
 
@@ -427,7 +427,7 @@ git remote -v
 
 如图, 即加入成功了.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v203f16ad062614068b25426a875086fcb.png)
+![](https://pic2.zhimg.com/80/v2-824820b5362268cb178431118d58aa25_720w.png)
 
 使用命令与 upstream 同步:
 
@@ -448,25 +448,25 @@ git push
 
 推送到自己的 Repo 里.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v26a72be0127d84302879551777ffc9b36.png)
+![](https://pic1.zhimg.com/80/v2-932e6bc2d878f92f591e6127ab86f884_720w.png)
 
 6. 进行 Pull Request 合并到团队项目
 
 在你自己 Fork 的 Repo 里发起 Pull Request:
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2bab87880991e4801888629ec06c649c2.png)
+![](https://pic4.zhimg.com/80/v2-c7ef3497f26f7b90be0281fad6fe5f37_720w.png)
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2e3457c8b392f4ef7a30fa3de238cb069.png)
+![](https://pic1.zhimg.com/80/v2-259021e946665479b6f61afdbfa9ef98_720w.png)
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2f095edb069a247eba8650028132f32af.png)
+![](https://pic4.zhimg.com/80/v2-409eefafb4dfad6b2f5d698467113fcf_720w.png)
 
 然后项目管理者就可以对代码进行 Merge.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v25f3da5d30aa5425e9af279443ecd1a11.png)
+![](https://pic2.zhimg.com/80/v2-765e042c447c3c2a3d6a4eb44733a48d_720w.png)
 
 于是 README.md 文件就被更新了!
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v296ff917f1105447b9ceaf490e0582d6b.png)
+![](https://pic1.zhimg.com/80/v2-2736ca012ec15142cebda716baa3bb1c_720w.png)
 
 
 ### 解决冲突
@@ -475,7 +475,7 @@ git push
 
 例如, 原来是 `A test for team` 的文本现在变成了 `A test repo for team`.
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2292a217cb3324618adeca84abb09d8be.png)
+![](https://pic2.zhimg.com/80/v2-d6098a9e3ca0d991b8cb4afda0ab6985_720w.png)
 
 这时候, 你 Fork 的 Repo 和你电脑本地的的仓库也应该及时更新与解决冲突.
 
@@ -487,6 +487,6 @@ git merge upstream/main
 git push
 ```
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2b9d3382635574d15a73a53e087474336.png)
+![](https://pic2.zhimg.com/80/v2-b1c77bae9b902cc6f01dbee14cd5d685_720w.png)
 
 于是, 你的代码也被更新了, 恭喜, 你学会了团队协作的大部分流程了!
